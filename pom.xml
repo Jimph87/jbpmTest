@@ -9,13 +9,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 	<name>Human Resources Kjar Example</name>
-	<repositories>
-		<repository>
-			<id>guvnor-m2-repo</id>
-			<name>Guvnor M2 Repo</name>
-			<url>/maven2/</url>
-		</repository>
-	</repositories>
+
 
 	<dependencies>
 		<dependency>
