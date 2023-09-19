@@ -7,7 +7,7 @@
 	<groupId>org.jbpm</groupId>
 	<artifactId>human-resources</artifactId>
 	<version>1.0</version>
-	<packaging>jar</packaging>
+	<packaging>kjar</packaging>
 	<name>Human Resources Kjar Example</name>
 
 	<repositories>
