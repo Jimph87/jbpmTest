@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="JBPM/jbpm"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry including="myDroolsRuntime" kind="src" path="Eclipse_Home"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

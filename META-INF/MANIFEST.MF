@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-Description: <html><body>This project contains the <b>Human Res
+ ources</b> Process and Forms.</body></html> 
+Bundle-SymbolicName: human-resources
+Bundle-Name: Human Resources
+Bundle-Version: 1.0.0.201505151142
+Bundle-ManifestVersion: 2
+Bundle-Vendor: JBoss
+
+
