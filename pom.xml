@@ -24,6 +24,6 @@
 			<artifactId>drools-compiler</artifactId>
 			<version>7.46.0.Final</version>
 		</dependency>
-
+	</dependencies>
 
 </project>
